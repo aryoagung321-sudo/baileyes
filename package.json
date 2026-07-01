@@ -1,18 +1,18 @@
 {
-    "name": "@badzz88/baileys",
+    "name": "@aryoagung321-sudo/baileys",
     "type": "module",
     "version": "8.4.1",
-    "description": "WhatsApp API Modification By Badzz88",
+    "description": "WhatsApp API Modification By sp.osintid",
     "keywords": [
     "whatsapp",
     "baileys"
     ],
-    "homepage": "https://github.com/Badzz88/baileys",
+    "homepage": "https://github.com/aryoagung321-sudo/baileyes",
     "repository": {
-        "url": "https://github.com/Badzz88/baileys"
+        "url": "https://github.com/aryoagung321-sudo/baileyes"
     },
     "license": "MIT",
-    "author": "Badzz88",
+    "author": "aryoagung321-sudo",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
